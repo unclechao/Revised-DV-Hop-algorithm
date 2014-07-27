@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Revised_DV_Hop_algorithm.AlgorithmFunction">
+    <Position X="11.25" Y="0.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>EBAAQAACAAAAoAAAAAIAAAACCAAQAAAAAAAAAgAABAA=</HashCode>
+      <FileName>AlgorithmFunction.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Revised_DV_Hop_algorithm.BeaconNode">
+    <Position X="4.5" Y="3.75" Width="1.75" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAQ=</HashCode>
+      <FileName>BeaconNode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Revised_DV_Hop_algorithm.DataExport">
+    <Position X="6.75" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DataExport.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Revised_DV_Hop_algorithm.GeneralNode">
+    <Position X="1" Y="3.75" Width="1.75" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAAYAAAAGCAAQAAAAEAAAAAAEAAAAA=</HashCode>
+      <FileName>GeneralNode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Revised_DV_Hop_algorithm.Node">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>QAACAAAgAAAAKAAgAAgAAAAAAAAAAAAgAAEAIEABAgA=</HashCode>
+      <FileName>Node.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Revised_DV_Hop_algorithm.NodeList">
+    <Position X="8.75" Y="0.5" Width="1.75" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAEAAAEACACAAAAAEAAAABAAgECQAIAAAIAQ=</HashCode>
+      <FileName>NodeList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Revised_DV_Hop_algorithm.Program" Collapsed="true">
+    <Position X="16.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Revised_DV_Hop_algorithm.Three_edge_measurement">
+    <Position X="14.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAA=</HashCode>
+      <FileName>Three_edge_measurement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="微软雅黑" Size="9" />
+</ClassDiagram>
